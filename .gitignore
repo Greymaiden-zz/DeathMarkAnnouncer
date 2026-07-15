@@ -1,0 +1,17 @@
+ini# --- WoW Testing & Local Storage Artifacts ---
+# Ignores local backups or temporary files generated if editing in place
+*.bak
+*.tmp
+*.old
+
+# --- OS & System Cache Files ---
+.DS_Store
+Thumbs.db
+
+# --- Developer IDE & Text Editor Configs ---
+# Keeps your personal window layouts, themes, and workplace files private
+.vscode/
+.idea/
+*.suo
+*.user
+*.workspace
